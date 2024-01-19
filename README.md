@@ -1,1 +1,3 @@
 # odin-recipes
+
+This is just going to be a small demo project to see what i have learned....
